@@ -9,7 +9,6 @@ I am an Industrial and Software Engineer. Since I was little I fell in love with
 
 
 
-<img align="right" alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" />
 
 ## What I know :computer:
 - **Competitive Programming**
