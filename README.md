@@ -33,9 +33,7 @@ I am an Industrial and Software Engineer. Since I was little I fell in love with
 
 ### Interesting stats
 
-![Andres's github stats](https://github-readme-stats.vercel.app/api?username=stolzz0613&hide=["contribs","prs"])
+![Andres's github stats](https://github-readme-stats.vercel.app/api?username=stolzz0613&hide=["contribs","prs"]&theme=synthwave)
 
 Thanks for stopping by! 😁
 
-
-⭐️ From [Sarthakbh321](https://github.com/Sarthakbh321)
