@@ -6,7 +6,10 @@
 
 ## About me :mortar_board:
 I am an Industrial and Software Engineer. Since I was little I fell in love with mathematics and now I discovered the passion for web development. This love has helped me develop a very good technological mindset, and given me the curiosity to learn more.  **“Any fool can write code that a computer can understand. Good programmers write code that humans can understand.”**.– Martin Fowler.
-  <img align="right" alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" />
+
+
+
+<img align="right" alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" />
 
 ## What I know :computer:
 - **Competitive Programming**
@@ -39,11 +42,4 @@ I am an Industrial and Software Engineer. Since I was little I fell in love with
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=stolzz0613)](https://github.com/stolzz0613/github-readme-stats)
 
 Thanks for stopping by! 😁
-
-<a href="https://github.com/stolzz0613/github-readme-stats">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=stolzz0613&repo=github-readme-stats&theme=cobalt" />
-</a>
-<a href="https://github.com/anuraghazra/convoychat">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=stolzz0613&repo=convoychat" />
-</a>
 
