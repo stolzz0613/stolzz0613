@@ -39,3 +39,10 @@ I am an Industrial and Software Engineer. Since I was little I fell in love with
 
 Thanks for stopping by! 😁
 
+<a href="https://github.com/stolzz0613/github-readme-stats">
+  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=stolzz0613&repo=github-readme-stats&theme=cobalt" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=stolzz0613&repo=convoychat" />
+</a>
+
