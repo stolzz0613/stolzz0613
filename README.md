@@ -16,6 +16,7 @@ I am an Industrial and Software Engineer. Since I was little I fell in love with
 	- Python 
 	- C
 	- Java
+	<img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 - **Frontend Development**
 	- HTML, CSS and Javascript :white_check_mark:
 	- Bootstrap
@@ -26,7 +27,7 @@ I am an Industrial and Software Engineer. Since I was little I fell in love with
 
 ## What I want to do next :thinking:
 - Backend Development
-<img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
+
 
 
 
