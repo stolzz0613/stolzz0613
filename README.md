@@ -3,18 +3,14 @@
 ## About me :mortar_board:
 I am an Industrial and Software Engineer. Since I was little I fell in love with mathematics and now I discovered the passion for web development. This love has helped me develop a very good technological mindset, and given me the curiosity to learn more.  **“Any fool can write code that a computer can understand. Good programmers write code that humans can understand.”**.– Martin Fowler.
 
-<div align="right">
-	<img width="30%"  src="https://github.com/stolzz0613/stolzz0613/raw/master/Mi%20publicacio%CC%81n.png">
-</div>
+	<img width="30%" align="right" src="https://github.com/stolzz0613/stolzz0613/raw/master/Mi%20publicacio%CC%81n.png">
 
 ## What I know :computer:
 - **Competitive Programming**
 	- Python 
 	- C
 	- Java
-	<div align="right">
-	<img width="30%"  src="https://octodex.github.com/images/ironcat.jpg">
-</div>
+	<img width="30%" align="right"  src="https://octodex.github.com/images/ironcat.jpg">
 - **Frontend Development**
 	- HTML, CSS and Javascript :white_check_mark:
 	- Bootstrap
