@@ -2,9 +2,7 @@
 
 ## About me :mortar_board:
 I am an Industrial and Software Engineer. Since I was little I fell in love with mathematics and now I discovered the passion for web development. This love has helped me develop a very good technological mindset, and given me the curiosity to learn more.  **“Any fool can write code that a computer can understand. Good programmers write code that humans can understand.”**.– Martin Fowler.
-<div>
-	<img width="30%" align="right" src="https://github.com/stolzz0613/stolzz0613/raw/master/Mi%20publicacio%CC%81n.png">
-</div>
+
 ## What I know :computer:
 - **Competitive Programming**
 	- Python 
