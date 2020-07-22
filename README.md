@@ -1,7 +1,7 @@
 # Welcome to my github! 👋
 
 <div align="center">
-	<img src="https://loading.io/asset/393223">
+	<img src="https://github.com/stolzz0613/stolzz0613/raw/master/Mi%20publicacio%CC%81n%20(1).png">
 </div>
 
 ## About me :mortar_board:
