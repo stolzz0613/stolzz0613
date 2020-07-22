@@ -1,7 +1,7 @@
 # Welcome to my github! 👋
 
 <div align="center">
-	<img width=100% height="300"src="https://github.com/stolzz0613/stolzz0613/raw/master/Mi%20publicacio%CC%81n%20(1).png">
+	<img width=100% height="200"src="https://github.com/stolzz0613/stolzz0613/raw/master/Mi%20publicacio%CC%81n%20(1).png">
 </div>
 
 ## About me :mortar_board:
