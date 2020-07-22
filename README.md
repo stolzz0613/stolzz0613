@@ -35,6 +35,5 @@ I am an Industrial and Software Engineer. Since I was little I fell in love with
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=stolzz0613&show_icons=true&)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=stolzz0613)](https://github.com/stolzz0613/github-readme-stats)
-
 Thanks for stopping by! 😁
 
