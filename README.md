@@ -1,21 +1,20 @@
 # Welcome to my github! 👋
-
-<div align="center">
-	<img width=100% height="200"src="https://github.com/stolzz0613/stolzz0613/raw/master/Mi%20publicacio%CC%81n.png">
-</div>
-
+<div>
 ## About me :mortar_board:
 I am an Industrial and Software Engineer. Since I was little I fell in love with mathematics and now I discovered the passion for web development. This love has helped me develop a very good technological mindset, and given me the curiosity to learn more.  **“Any fool can write code that a computer can understand. Good programmers write code that humans can understand.”**.– Martin Fowler.
 
 
-
+<div align="right">
+	<img width="30%" align="right" margin-top=10px src="https://github.com/stolzz0613/stolzz0613/raw/master/Mi%20publicacio%CC%81n.png">
+	
+</div>
+</div>
 
 ## What I know :computer:
 - **Competitive Programming**
 	- Python 
 	- C
 	- Java
-	<img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 - **Frontend Development**
 	- HTML, CSS and Javascript :white_check_mark:
 	- Bootstrap
