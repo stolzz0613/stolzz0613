@@ -8,6 +8,7 @@ I am an Industrial and Software Engineer. Since I was little I fell in love with
 	- Python 
 	- C
 	- Java
+	- PHP
 	<img width="30%" align="right"  src="https://octodex.github.com/images/ironcat.jpg">
 - **Frontend Development**
 	- HTML, CSS and Javascript :white_check_mark:
